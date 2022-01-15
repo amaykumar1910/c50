@@ -1,0 +1,28 @@
+h1 { 
+    color:rgb(223, 235, 234);
+}
+* {
+    border:solid;
+}
+
+.heading{
+  background-color: black;  
+  display : flex;
+  justify-content:space-between;
+}
+
+.grid{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  background-color: rgb(160, 47, 43);
+}
+
+.socialmedia{
+    display: flex;
+    justify-content: flex-end;
+}
+
+p,h2{
+    text-align: center;
+}
